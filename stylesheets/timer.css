@@ -1,5 +1,9 @@
 *{margin:0; padding: 0;}
 
+body{
+	background: url(../images/whiteBG.png);
+}
+
 #container{
 	position: absolute;
 	left: 25%;
